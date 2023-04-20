@@ -7,7 +7,6 @@ The only you need do is clone the repository with:
 
 ```
 git clone https://github.com/0xGabe/git-check/
-
 ```
 
 ## How to use
@@ -24,5 +23,4 @@ python3 git-check.py --url https://site.com
 
 ```
 python3 git-check.py --list target.txt
-
 ```
